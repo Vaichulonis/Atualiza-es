@@ -1,0 +1,21 @@
+body {
+    background-color: hsl(229, 100%, 50%);
+    font-family: "Times New Roman";
+    color:#00ff22;
+}
+
+h2 {
+    color: #ff0000;
+    font-size: 50px;
+    font-family: Verdana;
+}
+
+h1 {
+    color: black;
+    font-size: 100px;
+    font-family: Arial;
+}
+
+h3 {
+    font-size: 200px;
+}
